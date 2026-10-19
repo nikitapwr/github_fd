@@ -1,0 +1,9 @@
+ git tatus                                                                                      
+ clear                                                                                          
+ git status                                                                                     
+ rm testing.py                                                                                  
+ ls                                                                                             
+ clear                                                                                          
+ git status                                                                                     
+ git restore testing.py                                                                         
+ git status               
